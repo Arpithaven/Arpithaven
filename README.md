@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**Arpithaven/Arpithaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Arpitha venkatesh 👋
 
-Here are some ideas to get you started:
+### A Passionate Data Analyst from India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Logo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*mY7-_HseAw99fBS9Cb3tSw.gif)
+
+
+## 🚀 About Me
+Motivated and analytical professional with experience in evaluating dashboards and developing KPI reports.
+Certified Excel Specialist proficient in SQL, Python, Tableau, and Power BI. Additional growing fluency in
+artificial intelligence and product life cycle analytics. Focused collaborator dedicated to interdisciplinary
+communication.
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitha-v-027184210/)
+
+
+## 🛠 Skills
+### Programming Languages
+- C
+- Python
+- Java
+
+### Database
+- MySQL
+- MS SQL
+
+### Tools
+- Excel
+- Tableau
+- Power BI
+
+Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+
+## 🔗 Contact Details
+
+### Mobile Number: 9663329942
+### Gmail: arpithav69@gmail.com
