@@ -45,3 +45,4 @@ Libraries
 
 ### Mobile Number: 9663329942
 ### Gmail: arpithav69@gmail.com
+### Resume Link: https://drive.google.com/file/d/18_bqA06b-9mxgr3IilsGukfqUoJc6G0r/view?usp=sharing
